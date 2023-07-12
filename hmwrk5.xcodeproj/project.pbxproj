@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		9665AF4B2A5EDC1A00ECDB0F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9665AF4A2A5EDC1A00ECDB0F /* main.swift */; };
+		9665AF522A5EDCD300ECDB0F /* Cars.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9665AF512A5EDCD300ECDB0F /* Cars.swift */; };
+		9665AF542A5EDD9400ECDB0F /* Engine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9665AF532A5EDD9400ECDB0F /* Engine.swift */; };
+		9665AF562A5EE65B00ECDB0F /* Condition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9665AF552A5EE65B00ECDB0F /* Condition.swift */; };
+		9665AF582A5EE69F00ECDB0F /* Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9665AF572A5EE69F00ECDB0F /* Stock.swift */; };
+		9665AF5A2A5EE6F400ECDB0F /* Device.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9665AF592A5EE6F400ECDB0F /* Device.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +30,11 @@
 /* Begin PBXFileReference section */
 		9665AF472A5EDC1A00ECDB0F /* hmwrk5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = hmwrk5; sourceTree = BUILT_PRODUCTS_DIR; };
 		9665AF4A2A5EDC1A00ECDB0F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9665AF512A5EDCD300ECDB0F /* Cars.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cars.swift; sourceTree = "<group>"; };
+		9665AF532A5EDD9400ECDB0F /* Engine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Engine.swift; sourceTree = "<group>"; };
+		9665AF552A5EE65B00ECDB0F /* Condition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Condition.swift; sourceTree = "<group>"; };
+		9665AF572A5EE69F00ECDB0F /* Stock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stock.swift; sourceTree = "<group>"; };
+		9665AF592A5EE6F400ECDB0F /* Device.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Device.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +68,11 @@
 			isa = PBXGroup;
 			children = (
 				9665AF4A2A5EDC1A00ECDB0F /* main.swift */,
+				9665AF572A5EE69F00ECDB0F /* Stock.swift */,
+				9665AF512A5EDCD300ECDB0F /* Cars.swift */,
+				9665AF532A5EDD9400ECDB0F /* Engine.swift */,
+				9665AF552A5EE65B00ECDB0F /* Condition.swift */,
+				9665AF592A5EE6F400ECDB0F /* Device.swift */,
 			);
 			path = hmwrk5;
 			sourceTree = "<group>";
@@ -120,6 +135,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9665AF522A5EDCD300ECDB0F /* Cars.swift in Sources */,
+				9665AF562A5EE65B00ECDB0F /* Condition.swift in Sources */,
+				9665AF542A5EDD9400ECDB0F /* Engine.swift in Sources */,
+				9665AF5A2A5EE6F400ECDB0F /* Device.swift in Sources */,
+				9665AF582A5EE69F00ECDB0F /* Stock.swift in Sources */,
 				9665AF4B2A5EDC1A00ECDB0F /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
